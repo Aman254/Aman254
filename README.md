@@ -1,4 +1,4 @@
-# Hi there, I'm Shivam! 👋
+# Hi there, I'm Aman! 👋
 
 I'm a passionate MERN stack developer based in India. With a strong background in PostgreSQL and Python,JavaScript I love crafting efficient and scalable web applications.
 
