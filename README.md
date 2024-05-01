@@ -5,8 +5,8 @@ I'm a passionate MERN stack developer based in India. With a strong background i
 ## 🚀 Skills
 
 - **Frontend**: React, Redux, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL,MongoDB
+- **Backend**: Node.js, Express.js, Amazon AWS
+- **Database**: MongoDB
 - **Programming**: Python
 - **Data Structures and Algorithms**: Proficient in Python
 
