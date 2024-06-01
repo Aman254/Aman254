@@ -1,12 +1,11 @@
 # Hi there, I'm Aman! 👋
 
-I'm a passionate MERN stack developer based in India. With a strong background in PostgreSQL and Python,JavaScript I love crafting efficient and scalable web applications.
+I'm a passionate  developer. With a strong background in PostgreSQL and Python,JavaScript,Devops I love crafting efficient and scalable web applications.
 
 ## 🚀 Skills
 
-- **Frontend**: React, Redux, HTML, CSS
 - **Backend**: Node.js, Express.js, Amazon AWS
-- **Database**: MongoDB
+- **Database**: NoSQL, SQL
 - **Programming**: Python
 - **Data Structures and Algorithms**: Proficient in Python
 
