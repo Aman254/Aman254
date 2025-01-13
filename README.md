@@ -1,6 +1,6 @@
 # Hi there, I'm Aman! 👋
 
-I'm a passionate  developer. With a strong background in PostgreSQL and Python,JavaScript,Devops I love crafting efficient and scalable web applications.
+A passionate  developer, who loves crafting efficient and scalable web applications.
 
 ## 🚀 Skills
 
