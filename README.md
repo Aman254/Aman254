@@ -11,6 +11,6 @@ A passionate  developer, who loves crafting efficient and scalable web applicati
 
 ## 📫 Let's Connect
 
-- Twitter: [@amanmishra_7](https://twitter.com/amanmishra_7)
+- Twitter: [@amanmishra_7](https://x.com/amanmsxg)
 
 I'm always open to collaborating on exciting projects or discussing tech trends. Feel free to reach out!
